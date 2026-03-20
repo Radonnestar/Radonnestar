@@ -1,12 +1,23 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Adnan+%F0%9F%91%8B;Frontend+%26+Backend+Developer;CSE+Student+%40+BRAC+University;Building+the+web%2C+one+commit+at+a+time." alt="Typing SVG" /></a>
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:003d4f,60:00d9ff,100:0d1117&height=200&section=header&text=Adnan%20Sami%20Srijon&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20Web%20Developer%20%7C%20CSE%20%40%20BRAC%20University&descSize=16&descAlignY=75&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- Profile banner / Snake animation row -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<!-- Animated typing lines -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Adnan+%F0%9F%91%8B;Frontend+%26+Backend+Developer;CSE+Student+%40+BRAC+University;Building+The+Web%2C+One+Commit+At+A+Time.;Unsuccessful%3F+No+Kiddo%2C+Just+Getting+Started." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Snake contribution animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radonnestar/Radonnestar/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radonnestar/Radonnestar/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Radonnestar/Radonnestar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -25,7 +36,7 @@ Status      : Open To Collabs & Opportunities ✅
 
 > _"Unsuccessful? No kiddo, Just Getting Started."_
 
-I'm a Computer Science & Engineering student with a sharp eye for frontend design and solid backend architecture. I craft responsive, pixel-perfect interfaces and wire them to reliable, efficient server-side logic. Whether it's a slick React dashboard or a RESTful Node.js API — I ship it clean.
+I'm a Computer Science & Engineering student with a sharp eye for frontend design and solid backend architecture. I craft responsive, pixel-perfect interfaces and wire them to reliable, efficient server-side logic. Whether it's a slick dashboard or a RESTful Node.js API — I ship it clean.
 
 ---
 
@@ -73,21 +84,11 @@ I'm a Computer Science & Engineering student with a sharp eye for frontend desig
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Radonnestar&theme=darkhub&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
-[![Adnan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Radonnestar&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Adnan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Radonnestar&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -99,13 +100,12 @@ I'm a Computer Science & Engineering student with a sharp eye for frontend desig
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-sami-srijon-394100263)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sir_melancholy_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=About.me&logoColor=black)](https://your-portfolio.dev)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=100&section=footer" width="100%"/>
+<!-- Animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=Radonnestar&label=Profile+Views&color=00d9ff&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Radonnestar&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="profile views" />
 
 </div>
