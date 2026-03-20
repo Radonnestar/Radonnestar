@@ -15,15 +15,15 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name        : Adnan Sami Srijon
-role        : Full-Stack Web Developer
-university  : BRAC University  |  Department of CSE
-focus       : Frontend-first, Backend-strong
-location    : Dhaka, Bangladesh 🇧🇩
-status      : Open to collabs & opportunities ✅
+Name        : Adnan Sami Srijon
+Role        : Full-Stack Web Developer
+University  : BRAC University  |  Department of CSE
+Focus       : Frontend-First, Backend-Strong
+Location    : Dhaka, Bangladesh 🇧🇩
+Status      : Open To Collabs & Opportunities ✅
 ```
 
-> _"Clean code, sharp UI, and scalable systems — that's the standard I hold myself to."_
+> _"Unsuccessful? No kiddo, Just Getting Started."_
 
 I'm a Computer Science & Engineering student with a sharp eye for frontend design and solid backend architecture. I craft responsive, pixel-perfect interfaces and wire them to reliable, efficient server-side logic. Whether it's a slick React dashboard or a RESTful Node.js API — I ship it clean.
 
