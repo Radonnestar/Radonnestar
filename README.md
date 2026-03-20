@@ -1,18 +1,14 @@
 <div align="center">
 
 <!-- Sherlock / Dark Academia Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1c1208,70:3d2b1f,100:0a0a0a&height=220&section=header&text=Adnan%20Sami%20Srijon&fontSize=52&fontColor=d4af7a&fontAlignY=50&desc=〔%20The%20Web%20Developer%20of%20Baker%20Stack%20〕&descSize=15&descAlignY=70&descAlignX=50&animation=fadeIn&stroke=3d2b1f&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1c1208,70:3d2b1f,100:0a0a0a&height=220&section=header&text=Adnan%20Sami%20Srijon&fontSize=52&fontColor=d4af7a&fontAlignY=50&desc=%E3%80%94%20The%20Web%20Developer%20of%20Baker%20Stack%20%E3%80%95&descSize=15&descAlignY=70&animation=fadeIn" width="100%"/>
+
+<!-- Typewriter typing animation — using direct demolab URL, no redirect -->
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=400&size=22&duration=3000&pause=1000&color=D4AF7A&center=true&vCenter=true&width=700&lines=CSE+Student+at+BRAC+University%2C+Dhaka.;Frontend+Developer.+Backend+Architect.;The+game+is+afoot+%E2%80%94+and+so+is+the+code.;When+you+eliminate+the+bugs%2C+what+remains...;...+must+be+the+solution.;Unsuccessful%3F+No+kiddo%2C+just+getting+started." alt="Typing SVG" />
 
 <br/>
 
-<!-- Typewriter typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=400&size=22&duration=3000&pause=1000&color=D4AF7A&center=true&vCenter=true&width=700&lines=CSE+Student+at+BRAC+University%2C+Dhaka.;Frontend+Developer.+Backend+Architect.;The+game+is+afoot+—+and+so+is+the+code.;When+you+eliminate+the+bugs%2C+whatever+remains...;...+however+improbable%2C+must+be+the+solution.;Unsuccessful%3F+No+kiddo%2C+Just+Getting+Started." alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:3d2b1f,100:0a0a0a&height=2&section=header" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:3d2b1f,100:0a0a0a&height=2" width="80%"/>
 
 </div>
 
@@ -82,7 +78,7 @@ Elementary, my dear visitor. I am a Computer Science & Engineering student at BR
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Radonnestar&theme=dark&hide_border=true&background=0d0b08&ring=d4af7a&fire=c0842a&currStreakLabel=d4af7a&sideLabels=c9b89a&dates=c9b89a)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=Radonnestar&theme=dark&hide_border=true&background=0d0b08&ring=d4af7a&fire=c0842a&currStreakLabel=d4af7a&sideLabels=c9b89a&dates=c9b89a" alt="GitHub Streak"/>
 
 </div>
 
@@ -92,7 +88,7 @@ Elementary, my dear visitor. I am a Computer Science & Engineering student at BR
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Radonnestar&bg_color=0d0b08&color=d4af7a&line=c0842a&point=d4af7a&area=true&hide_border=true&area_color=3d2b1f)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Radonnestar&bg_color=0d0b08&color=d4af7a&line=c0842a&point=d4af7a&area=true&hide_border=true&area_color=3d2b1f" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -106,14 +102,6 @@ Elementary, my dear visitor. I am a Computer Science & Engineering student at BR
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sir_melancholy_)
 
 <br/><br/>
-
-<!-- Snake contribution animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radonnestar/Radonnestar/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Radonnestar/Radonnestar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1c1208,70:3d2b1f,100:0a0a0a&height=130&section=footer&text=The+game+is+afoot.&fontSize=22&fontColor=d4af7a&animation=fadeIn" width="100%"/>
 
